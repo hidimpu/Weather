@@ -10,10 +10,16 @@ Steps to run-
     ```bash
     pip install -r requirements.txt
      ```
-2. Type 
+2. Type this on terminal
 
     ```python  
     python manage.py runserver
+    ```
+   
+3. On your Browser, type this URL
+
+    ```bash
+        http://127.0.0.1:8000/ 
     ```
     
  See this Project live on cloud at: [Weather]https://weatherappbyd.herokuapp.com/
